@@ -1,0 +1,126 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    }
+
+/*
+span{
+    /* display: block; */
+   
+    nav{
+        margin-left: 125px;
+        
+        display: flex;
+        justify-content: space-between;
+        background-color:rgb(3, 3, 3);
+        padding: 10px;
+        font-size: large;
+    }
+
+    .linea {
+
+        border: 1px solid #1d1d1d;
+        
+
+
+   }
+
+    .enlaces {
+        
+ 
+    display: inline-block; 
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-right: 100px;
+    word-spacing: 100px;
+    margin-top: 40px;
+    
+    
+    
+
+
+    }
+
+  a{
+
+   color: white;
+   font-family: "Meow Script", cursive;
+   font-weight: 400;
+   font-style: normal;
+   font-size: 25px;
+
+
+  }
+  body{
+    background-color: #000000;
+  }
+
+
+ #biografía {
+
+    display: flex;
+    /*align-items: center;*/
+    justify-content: space-between;
+    padding: 20px;
+
+
+
+ }
+
+ .imagen-patricia {
+margin-top: 20px;
+    margin-left: 80px;
+    width: 310px; /* Establece el ancho de la imagen en 300 píxeles */
+    height: auto;
+    background-color: #242323;
+margin-bottom: -20px;
+    
+
+ }
+
+ .texto {
+
+    flex-grow: 1;
+    background-color: rgb(0, 0, 0);
+    color: aliceblue;
+    width: 60%;
+    height: 100px;
+    margin-right: 90px;
+    margin-left: 90px;
+    line-height: 1.7;
+    margin-top: 65px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+ }
+
+ .footer {
+background-color: #0c0c0c;
+margin-top: 40px;
+width: 100%; /* Ancho del 100% de la ventana del navegador */
+padding: 30px;
+align-items: center;
+display: flex;
+
+ }
+
+ .instagram{
+    width: 30px;
+    height: 30x;
+    margin-left: 500px;
+   
+
+ }
+
+ .whatsapp{
+    width: 30px;
+    height: 30x;
+    margin-left: 80px;
+
+ }
+  .inst{
+    width: 30px;
+    height: 30x;
+    margin-left: 80px;
+}

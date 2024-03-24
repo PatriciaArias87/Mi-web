@@ -1,0 +1,122 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  }
+
+/*
+span{
+  /* display: block; */
+ 
+  nav{
+    margin-left: 125px;
+      
+      display: flex;
+      justify-content: space-between;
+      background-color:rgb(3, 3, 3);
+      padding: 10px;
+      font-size: large;
+  }
+
+  .linea {
+
+      border: 1px solid #1d1d1d;
+      
+
+
+ }
+
+  .enlaces {
+      
+
+  display: inline-block; 
+  font-size: large;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-right: 100px;
+  word-spacing: 100px;
+  margin-top: 40px;
+  
+  
+  
+
+
+  }
+
+a{
+
+ color: white;
+ font-family: "Meow Script", cursive;
+ font-weight: 400;
+ font-style: normal;
+ font-size: 25px;
+
+
+}
+body{
+  background-color: #000000;
+}
+
+body {
+  background-color: #000;
+  color: #fff;
+  font-family: Arial, sans-serif;
+}
+.container {
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+input[type="text"], textarea {
+  width: 100%;
+  padding: 10px;
+  margin: 5px 0;
+  border: none;
+  border-radius: 5px;
+  background-color: #333;
+  color: #fff;
+}
+input[type="submit"] {
+  width: 100%;
+  padding: 10px;
+  margin-top: 10px;
+  border: none;
+  border-radius: 5px;
+  background-color: #007bff;
+  color: #fff;
+  cursor: pointer;
+}
+input[type="submit"]:hover {
+  background-color: #0056b3;
+} .footer {
+  background-color: #0c0c0c;
+  margin-top: 40px;
+  width: 100%; /* Ancho del 100% de la ventana del navegador */
+  padding: 30px;
+  align-items: center;
+  display: flex;
+  
+   }
+  
+   .instagram{
+      width: 30px;
+      height: 30x;
+      margin-left: 500px;
+     
+  
+   }
+  
+   .whatsapp{
+      width: 30px;
+      height: 30x;
+      margin-left: 80px;
+  
+   }
+    .inst{
+      width: 30px;
+      height: 30x;
+      margin-left: 80px;
+  }
+  
+  

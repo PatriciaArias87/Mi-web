@@ -1,0 +1,158 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  }
+
+/*
+span{
+  /* display: block; */
+ 
+  nav{
+    margin-left: 125px;
+      display: flex;
+      justify-content: space-between;
+      background-color:rgb(3, 3, 3);
+      padding: 10px;
+      font-size: large;
+  }
+
+  .linea {
+
+      border: 1px solid #1d1d1d;
+      
+
+
+ }
+
+  .enlaces {
+      
+
+  display: inline-block; 
+  font-size: large;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-right: 100px;
+  word-spacing: 100px;
+  margin-top: 40px;
+  
+  
+  
+
+
+  }
+
+a{
+
+ color: white;
+ font-family: "Meow Script", cursive;
+ font-weight: 400;
+ font-style: normal;
+ font-size: 25px;
+
+
+}
+body{
+  background-color: #000000;
+}
+
+
+#biografía {
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+/*border: 1px solid #ccc;*/
+  border-radius: 5px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+
+
+}
+  
+  body{
+    background-color: #000000;
+    
+  }
+
+
+
+
+  /*#contenedor {
+    display: flex;
+    justify-content: center; 
+    margin-top: 100px;
+    width: 100px;
+}*/
+
+
+/*.imagenes {
+
+  display: flex;
+  margin-top: 100px;
+  top: 100px;
+  justify-content: center; 
+
+
+}*/
+
+#contenedor {
+  display: flex;
+  justify-content: center; /* Centra horizontalmente */
+  align-items: center; /* Centra verticalmente */
+  height: 100%; /* Ocupa toda la altura de la pantalla */
+}
+
+#imagenes {
+  margin-top: 40px;
+  text-align: center; /* Centra las imágenes horizontalmente */
+}
+
+.img1{
+  width: 300px;
+    height: 200px;
+}
+.img2{
+
+  width: 300px;
+    height: 200px;
+
+}
+
+.img3{
+
+
+  width: 300px;
+    height: 200px;
+
+}
+.footer {
+  background-color: #0c0c0c;
+  margin-top: 40px;
+  width: 100%; /* Ancho del 100% de la ventana del navegador */
+  padding: 30px;
+  align-items: center;
+  display: flex;
+  
+   }
+  
+   .instagram{
+      width: 30px;
+      height: 30x;
+      margin-left: 500px;
+     
+  
+   }
+  
+   .whatsapp{
+      width: 30px;
+      height: 30x;
+      margin-left: 80px;
+  
+   }
+    .inst{
+      width: 30px;
+      height: 30x;
+      margin-left: 80px;
+  }
+  
